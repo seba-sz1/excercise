@@ -1,2 +1,2 @@
 # excercise
-This is repozytory for excercise
+This is repository for excercise
